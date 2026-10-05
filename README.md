@@ -1,3 +1,3 @@
 # Picwatch – politique de confidentialité
 
-Page publique : https://titidrone24.github.io/picwatch-privacy/
+Déplacée : https://winkague.github.io/picwatch/
